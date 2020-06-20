@@ -1,3 +1,3 @@
-# template-vuejs
+# freeCodeCamp - Telephone Number Validator
 
-add description
+Project in progress !
